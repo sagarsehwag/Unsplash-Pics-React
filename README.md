@@ -1,15 +1,12 @@
 # Pics
 The project is quite simple where I have taken input from the user and fetch images from the unsplash api and presented on to the webpage using React. I have used function based as well as class based component. Refs are also used to fetch the image height after the images are rendered in the dom then carefully used to display them correctly using CSS Grid.
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ### Version
 1.0.0
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.<br>
