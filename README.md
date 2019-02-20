@@ -7,9 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   <img src="https://i.imgur.com/4ozozKS.jpg">
 </kbd>
 
-### Version
-1.0.0
-
 ## Available Scripts
 ### `npm start`
 
