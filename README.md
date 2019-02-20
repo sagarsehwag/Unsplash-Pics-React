@@ -3,7 +3,9 @@ The project is quite simple where I have taken input from the user and fetch ima
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![](https://i.imgur.com/4ozozKS.jpg)
+<kbd>
+  <img src="https://i.imgur.com/4ozozKS.jpg">
+</kbd>
 
 ### Version
 1.0.0
